@@ -291,30 +291,44 @@ TileSets/Fairline/Units/Warrior
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Work Boats
+TileSets/Fairline/Units/Warrior-1
   rotate: false
   xy: 1012, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker
+TileSets/Fairline/Units/Warrior-2
   rotate: false
   xy: 940, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker-1
+TileSets/Fairline/Units/Work Boats
   rotate: false
   xy: 1012, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker-2
+TileSets/Fairline/Units/Worker
   rotate: false
   xy: 1084, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Worker-1
+  rotate: false
+  xy: 1012, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Worker-2
+  rotate: false
+  xy: 1084, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
