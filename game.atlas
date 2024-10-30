@@ -1,0 +1,230 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/Fairline/Units/Archer
+  rotate: false
+  xy: 4, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Archer-1
+  rotate: false
+  xy: 140, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Archer-2
+  rotate: false
+  xy: 212, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Axeman
+  rotate: false
+  xy: 284, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Berserker
+  rotate: false
+  xy: 356, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Bowman
+  rotate: false
+  xy: 428, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Brute
+  rotate: false
+  xy: 500, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Camel Archer
+  rotate: false
+  xy: 572, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Catapult
+  rotate: false
+  xy: 644, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Chariot Archer
+  rotate: false
+  xy: 716, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Frigate
+  rotate: false
+  xy: 788, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Galley
+  rotate: false
+  xy: 860, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Great Prophet
+  rotate: false
+  xy: 932, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Hoplite
+  rotate: false
+  xy: 76, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Horse Archer
+  rotate: false
+  xy: 148, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Horseman
+  rotate: false
+  xy: 220, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Hwacha
+  rotate: false
+  xy: 292, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Legion
+  rotate: false
+  xy: 364, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Marauder
+  rotate: false
+  xy: 436, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Scout
+  rotate: false
+  xy: 508, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Scout-1
+  rotate: false
+  xy: 580, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Scout-2
+  rotate: false
+  xy: 652, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Settler
+  rotate: false
+  xy: 724, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Slinger
+  rotate: false
+  xy: 796, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Spearman
+  rotate: false
+  xy: 868, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Swordman
+  rotate: false
+  xy: 148, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Trireme
+  rotate: false
+  xy: 220, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/War Chariot
+  rotate: false
+  xy: 292, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Warrior
+  rotate: false
+  xy: 364, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Work Boats
+  rotate: false
+  xy: 436, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Worker
+  rotate: false
+  xy: 4, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Worker (copy)
+  rotate: false
+  xy: 508, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
