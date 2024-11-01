@@ -2,6 +2,13 @@
 
 Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario League](https://sleague.civfanatics.com), [Fairline](https://forums.civfanatics.com/members/fairline.14395/), and others.
 
+![Preview Screenshot](preview.png)
+
+# Usage
+
+1. Install the Mod as usual
+2. In Options > Display, set "Unit Icon Opacity" to 0%
+
 ## Development
 
 1. Acquire one of the unit sets at the [Civ Scenario League](https://sleague.civfanatics.com)
