@@ -6,8 +6,9 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario
 
 # Usage
 
-1. Install the Mod as usual
-2. In Options > Display, set "Unit Icon Opacity" to 0%
+1. Download the repository to your `mods` directory
+2. Run Unciv, and in the Mods view, set Fairline to be a "Permanent audiovisual mod"
+3. In Options > Display, set "Unit Icon Opacity" to 0%
 
 ## Development
 
