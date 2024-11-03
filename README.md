@@ -4,7 +4,7 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario
 
 ![Preview Screenshot](preview.png)
 
-# Usage
+## Usage
 
 1. Run Unciv
 2. Open the Mods menu
@@ -13,6 +13,11 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario
 5. Enable "Permanent audiovisual mod"
 6. In Options > Display, select the Fairline Unitset
 7. In Options > Display, set "Unit Icon Opacity" to 0%
+
+## Roadmap
+
+- Add all the [missing units](Units.md)
+- Ensure each unit has nation colours
 
 ## Development
 
