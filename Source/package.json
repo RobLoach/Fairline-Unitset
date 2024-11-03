@@ -1,0 +1,20 @@
+{
+  "name": "unciv-fairline",
+  "version": "0.0.1",
+  "description": "Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario League](https://sleague.civfanatics.com), [Fairline](https://forums.civfanatics.com/members/fairline.14395/), and others.",
+  "main": "Source/index.js",
+  "scripts": {
+    "units-civ4": "wget -nc --continue -O units-civ4.json https://raw.githubusercontent.com/yairm210/Civ-IV/refs/heads/master/jsons/Units.json; true",
+    "units-civ5": "wget -nc --continue -O units-civ5.json https://raw.githubusercontent.com/yairm210/Unciv/refs/heads/master/android/assets/jsons/Civ%20V%20-%20Gods%20%26%20Kings/Units.json; true",
+    "download": "npm-run-all units-civ4 units-civ5",
+    "pretest": "npm run download",
+    "test": "node index.js",
+    "clean": "rm units-*"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jsonc": "^2.0.0",
+    "npm-run-all": "^4.1.5"
+  }
+}
