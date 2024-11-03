@@ -6,12 +6,17 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario
 
 # Usage
 
-1. Download the repository to your `mods` directory
-2. Run Unciv, and in the Mods view, set Fairline to be a "Permanent audiovisual mod"
-3. In Options > Display, set "Unit Icon Opacity" to 0%
+1. Run Unciv
+2. Open the Mods menu
+3. At the top right, expand and search for "Fairline"
+4. Select Fairline and download it
+5. Enable "Permanent audiovisual mod"
+6. In Options > Display, select the Fairline Unitset
+7. In Options > Display, set "Unit Icon Opacity" to 0%
 
 ## Development
 
+1. Use git to clone the repository to your mods directory
 1. Acquire one of the unit sets at the [Civ Scenario League](https://sleague.civfanatics.com)
 2. Make sure the image has an alpha transparent layer
 3. Use Aseprite to extract the sprite sheet with "Replace Color"
@@ -23,6 +28,7 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario
     - Padding with H 1 V 1
 4. Create the `Unit-1.png` for the primary colors, and `Unit-2.png` for highlights
     - To shift the colors, use Edit -> Adjustments -> Hue/Saturate
+5. For nation-specific units, use `Unit-Egypt.png`
 
 ## Credits
 
