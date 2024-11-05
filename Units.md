@@ -14,7 +14,7 @@
 | Ballista | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Battering Ram | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Battleship | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Berserker | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Berserker | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Bomber | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Bowman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Brute | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -24,10 +24,10 @@
 | Carolean | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Carrier | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Cataphract | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Catapult | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Catapult | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Cavalry | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Chariot | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Chariot Archer | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Chariot Archer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Chu-Ko-Nu | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Companion Cavalry | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Composite Bowman | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -38,7 +38,7 @@
 | Destroyer | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Dromon | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Explorer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Fast Worker | :white_check_mark: | :white_check_mark: | :black_square_button: |
+| Fast Worker | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Fighter | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Foreign Legion | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Frigate | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -53,7 +53,7 @@
 | Great Merchant | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Great Prophet | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Great Scientist | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Great Spy | :black_square_button: | :black_square_button: | :black_square_button: |
+| Great Spy | :white_check_mark: | :white_check_mark: | :black_square_button: |
 | Great War Bomber | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Great War Infantry | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Grenadier | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -61,7 +61,7 @@
 | Hakkapeliitta | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Helicopter Gunship | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Hoplite | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Horse Archer | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Horse Archer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Horseman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Hussar | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Hwach'a | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -95,7 +95,7 @@
 | Mobile Artillery | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Mobile SAM | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Modern Armor | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Mohawk Warrior | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Mohawk Warrior | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Musketeer | :black_square_button: | :black_square_button: | :black_square_button: |
 | Musketman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Naresuan's Elephant | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -106,7 +106,7 @@
 | Panzer | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Paratrooper | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Persian Immortal | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Phalanx | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Phalanx | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Pictish Warrior | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Pikeman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Praetorian | :white_check_mark: | :white_check_mark: | :white_check_mark: |
