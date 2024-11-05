@@ -8,7 +8,7 @@
 | Archer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Artillery | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Atlatlist | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Atomic Bomb | :black_square_button: | :black_square_button: | :black_square_button: |
+| Atomic Bomb | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Axeman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | B17 | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Ballista | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -96,7 +96,7 @@
 | Mobile SAM | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Modern Armor | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Mohawk Warrior | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Musketeer | :black_square_button: | :black_square_button: | :black_square_button: |
+| Musketeer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Musketman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Naresuan's Elephant | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Navy SEAL | :black_square_button: | :black_square_button: | :black_square_button: |
@@ -128,7 +128,7 @@
 | Ship of the Line | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Sipahi | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Skirmisher | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Slinger | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Slinger | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Spearman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Spy | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Stealth Bomber | :white_check_mark: | :black_square_button: | :black_square_button: |
