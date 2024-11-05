@@ -3,7 +3,8 @@ const jsonc = require('jsonc');
 
 const files = [
     'units-civ4.json',
-    'units-civ5.json'
+    'units-civ5-vanilla.json'
+    'units-civ5-kings.json'
 ]
 
 let units = []
