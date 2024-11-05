@@ -30,7 +30,7 @@
 | Chariot Archer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Chu-Ko-Nu | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Companion Cavalry | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Composite Bowman | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Composite Bowman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Conquistador | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Cossack | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Crossbowman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -99,7 +99,7 @@
 | Musketeer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Musketman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Naresuan's Elephant | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Navy SEAL | :black_square_button: | :black_square_button: | :black_square_button: |
+| Navy SEAL | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Norwegian Ski Infantry | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Nuclear Missile | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Nuclear Submarine | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -113,7 +113,7 @@
 | Privateer | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Quechua | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Quinquereme | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Redcoat | :black_square_button: | :black_square_button: | :black_square_button: |
+| Redcoat | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Rifleman | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Rocket Artillery | :white_check_mark: | :black_square_button: | :black_square_button: |
 | SAM Infantry | :white_check_mark: | :black_square_button: | :black_square_button: |
