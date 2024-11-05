@@ -138,8 +138,8 @@
 | Tercio | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Transport | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Trebuchet | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Triplane | :black_square_button: | :black_square_button: | :black_square_button: |
-| Trireme | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Triplane | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Trireme | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Turtle Ship | :white_check_mark: | :black_square_button: | :black_square_button: |
 | War Chariot | :white_check_mark: | :black_square_button: | :black_square_button: |
 | War Elephant | :white_check_mark: | :black_square_button: | :black_square_button: |
