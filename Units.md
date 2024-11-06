@@ -84,7 +84,7 @@
 | Maceman | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Machine Gun | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Mandekalu Cavalry | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Maori Warrior | :black_square_button: | :black_square_button: | :black_square_button: |
+| Maori Warrior | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Marauder | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Marine | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Mechanized Infantry | :white_check_mark: | :black_square_button: | :black_square_button: |
