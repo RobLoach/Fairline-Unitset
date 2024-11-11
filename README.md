@@ -21,6 +21,7 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from the [Civ II Scen
 - [ ] Ensure all units are in the correct position
 - [ ] Review the units to see if there are better options
 - [ ] Add nation-specific unit sets
+- [ ] Add Alpha-transparent shadows for each unit
 
 ## Development
 
