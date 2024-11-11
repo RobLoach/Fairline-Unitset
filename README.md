@@ -1,6 +1,6 @@
-# Fairline's Units for Unciv
+# Fairline Unitset for Unciv
 
-Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario League](https://sleague.civfanatics.com), [Fairline](https://forums.civfanatics.com/members/fairline.14395/), and others.
+Unit images for [Unciv](https://github.com/yairm210/Unciv) from the [Civ II Scenario League](https://sleague.civfanatics.com), [Fairline](https://forums.civfanatics.com/members/fairline.14395/), and others.
 
 ![Preview Screenshot](preview.png)
 
@@ -16,8 +16,11 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from [Civ II Scenario
 
 ## Roadmap
 
-- Add all the [missing units](Units.md)
-- Ensure each unit has nation colours
+- [x] Add all [missing units](Units.md)
+- [ ] Fill in nation colours for [each unit](Units.md)
+- [ ] Ensure all units are in the correct position
+- [ ] Review the units to see if there are better options
+- [ ] Add nation-specific unit sets
 
 ## Development
 
