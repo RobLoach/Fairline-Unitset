@@ -44,23 +44,23 @@
 | Frigate | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Galleass | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Galleon | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Galley | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Galley | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Gatling Gun | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Giant Death Robot | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Great Artist | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Great Engineer | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Great General | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Great Merchant | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Great General | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Great Merchant | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Great Prophet | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Great Scientist | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Great Spy | :white_check_mark: | :white_check_mark: | :black_square_button: |
+| Great Spy | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Great War Bomber | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Great War Infantry | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Grenadier | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Guided Missile | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Hakkapeliitta | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Helicopter Gunship | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Hoplite | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Hoplite | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Horse Archer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Horseman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Hussar | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -71,7 +71,7 @@
 | Ironclad | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Jaguar | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Janissary | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Jet Fighter | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Jet Fighter | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Keshik | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Khan | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Knight | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -79,8 +79,8 @@
 | Landship | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Landsknecht | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Legion | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Longbowman | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Longswordsman | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Longbowman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Longswordsman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Maceman | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Machine Gun | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Mandekalu Cavalry | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -91,7 +91,7 @@
 | Mehal Sefari | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Minuteman | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Missile Cruiser | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Missionary | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Missionary | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Mobile Artillery | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Mobile SAM | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Modern Armor | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -137,7 +137,7 @@
 | Tank | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Tercio | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Transport | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Trebuchet | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Trebuchet | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Triplane | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Trireme | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Turtle Ship | :white_check_mark: | :black_square_button: | :black_square_button: |
