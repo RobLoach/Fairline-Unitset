@@ -43,7 +43,7 @@
 | Foreign Legion | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Frigate | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Galleass | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Galleon | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Galleon | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Galley | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Gatling Gun | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Giant Death Robot | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -81,7 +81,7 @@
 | Legion | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Longbowman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Longswordsman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Maceman | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Maceman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Machine Gun | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Mandekalu Cavalry | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Maori Warrior | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -114,7 +114,7 @@
 | Quechua | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Quinquereme | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Redcoat | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Rifleman | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Rifleman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Rocket Artillery | :white_check_mark: | :black_square_button: | :black_square_button: |
 | SAM Infantry | :white_check_mark: | :black_square_button: | :black_square_button: |
 | SS Booster | :black_square_button: | :black_square_button: | :black_square_button: |
