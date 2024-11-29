@@ -2,12 +2,12 @@
 
 | Name | Image | Color 1 | Color 2 |
 | :--- | :---: | :---: | :---: |
-| African Forest Elephant | :white_check_mark: | :black_square_button: | :black_square_button: |
+| African Forest Elephant | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Anti-Aircraft Gun | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Anti-Tank Gun | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Archer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Artillery | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Atlatlist | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Artillery | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Atlatlist | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Atomic Bomb | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Axeman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | B17 | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -20,7 +20,7 @@
 | Brute | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Camel Archer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Cannon | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Caravel | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Caravel | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Carolean | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Carrier | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Cataphract | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -41,7 +41,7 @@
 | Fast Worker | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Fighter | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Foreign Legion | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Frigate | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Frigate | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Galleass | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Galleon | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Galley | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -142,7 +142,7 @@
 | Trireme | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Turtle Ship | :white_check_mark: | :black_square_button: | :black_square_button: |
 | War Chariot | :white_check_mark: | :black_square_button: | :black_square_button: |
-| War Elephant | :white_check_mark: | :black_square_button: | :black_square_button: |
+| War Elephant | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Warrior | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Work Boats | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Worker | :white_check_mark: | :white_check_mark: | :white_check_mark: |
