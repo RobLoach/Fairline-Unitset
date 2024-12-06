@@ -19,7 +19,7 @@
 | Bowman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Brute | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Camel Archer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Cannon | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Cannon | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Caravel | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Carolean | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Carrier | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -36,7 +36,7 @@
 | Crossbowman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Cuirassier | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Destroyer | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Dromon | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Dromon | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Explorer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Fast Worker | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Fighter | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -65,7 +65,7 @@
 | Horseman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Hussar | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Hwach'a | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Immortal | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Immortal | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Infantry | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Inquisitor | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Ironclad | :white_check_mark: | :black_square_button: | :black_square_button: |
@@ -101,16 +101,16 @@
 | Naresuan's Elephant | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Navy SEAL | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Norwegian Ski Infantry | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Nuclear Missile | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Nuclear Missile | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Nuclear Submarine | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Panzer | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Paratrooper | :white_check_mark: | :black_square_button: | :black_square_button: |
-| Persian Immortal | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Persian Immortal | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Phalanx | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Pictish Warrior | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Pikeman | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Praetorian | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Privateer | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Privateer | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Quechua | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Quinquereme | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Redcoat | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -125,7 +125,7 @@
 | Scout | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Sea Beggar | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Settler | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Ship of the Line | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Ship of the Line | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Sipahi | :white_check_mark: | :black_square_button: | :black_square_button: |
 | Skirmisher | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Slinger | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -147,3 +147,4 @@
 | Work Boats | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Worker | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Zero | :white_check_mark: | :black_square_button: | :black_square_button: |
+| Total | 97% | 44% | 44% |
