@@ -7,7 +7,8 @@
     "units-civ4": "wget -nc --continue -O units-civ4.json https://raw.githubusercontent.com/yairm210/Civ-IV/refs/heads/master/jsons/Units.json; true",
     "units-civ5-vanilla": "wget -nc --continue -O units-civ5-vanilla.json https://raw.githubusercontent.com/yairm210/Unciv/refs/heads/master/android/assets/jsons/Civ%20V%20-%20Vanilla/Units.json; true",
     "units-civ5-kings": "wget -nc --continue -O units-civ5-kings.json https://raw.githubusercontent.com/yairm210/Unciv/refs/heads/master/android/assets/jsons/Civ%20V%20-%20Gods%20%26%20Kings/Units.json; true",
-    "download": "npm-run-all units-civ4 units-civ5-vanilla units-civ5-kings",
+    "units-rekmod": "wget -nc --continue -O units-rekmod.json https://raw.githubusercontent.com/ravignir/RekMOD/refs/heads/master/jsons/Units.json; true",
+    "download": "npm-run-all units-civ4 units-civ5-vanilla units-civ5-kings units-rekmod",
     "pretest": "npm run download",
     "test": "node index.js",
     "clean": "rm units-*"
