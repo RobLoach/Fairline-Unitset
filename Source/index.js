@@ -42,7 +42,7 @@ for (let unit of units) {
         colorCount++
     }
 
-    output += `| ${unit} | ${image} | ${color1} | ${color2} |\n`
+    output += `| [${unit}](https://civilization.fandom.com/wiki/${unit}) | ${image} | ${color1} | ${color2} |\n`
 }
 
 
