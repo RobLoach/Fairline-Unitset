@@ -5,7 +5,7 @@ const files = [
     'units-civ4.json',
     'units-civ5-vanilla.json',
     'units-civ5-kings.json',
-    'units-rekmod.json'
+    //'units-rekmod.json'
 ]
 
 let units = []
