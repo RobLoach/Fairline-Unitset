@@ -1,5 +1,6 @@
 const fs = require('fs')
 const jsonc = require('jsonc');
+const sortArray = require('sort-array');
 
 const files = [
     'units-civ4.json',
@@ -8,6 +9,14 @@ const files = [
     'units-rekmod.json'
 ]
 
+function checkArrayForObjectWithValue(array, property, value) {
+    if (!Array.isArray(array)) {
+        throw new Error("The input is not an array.");
+    }
+
+    return array.some(obj => obj && obj.hasOwnProperty(property) && obj[property] === value);
+}
+
 let units = []
 
 for (let file of files) {
@@ -15,15 +24,21 @@ for (let file of files) {
     let unitcontents = jsonc.parse(contents)
 
     for (let unit of unitcontents) {
-        if (!units.includes(unit.name)) {
-            units.push(unit.name)
+        if (!checkArrayForObjectWithValue(units, 'name', unit.name)) {
+        //if (!units.includes(unit.name)) {
+            units.push({
+                name: unit.name,
+                source: file.replace('units-', '').replace('.json', '')
+            })
         }
     }
 }
 
-units = units.sort()
+units = sortArray(units, {
+    by: 'name'
+})
 
-let output = "# Units\n\n| Name | Image | Color 1 | Color 2 |\n| :--- | :---: | :---: | :---: |\n"
+let output = "# Units\n\n| Name | Source | Image | Color 1 | Color 2 |\n| :--- | :---: | :---: | :---: | :---: |\n"
 
 let imageCount = 0
 let colorCount = 0
@@ -31,9 +46,9 @@ let colorCount = 0
 let yes = ':white_check_mark:'
 let no = ':black_square_button:'
 for (let unit of units) {
-    let image = fs.existsSync(`../Images/TileSets/Fairline/Units/${unit}.png`) ? yes : no
-    let color1 = fs.existsSync(`../Images/TileSets/Fairline/Units/${unit}-1.png`) ? yes : no
-    let color2 = fs.existsSync(`../Images/TileSets/Fairline/Units/${unit}-2.png`) ? yes : no
+    let image = fs.existsSync(`../Images/TileSets/Fairline/Units/${unit.name}.png`) ? yes : no
+    let color1 = fs.existsSync(`../Images/TileSets/Fairline/Units/${unit.name}-1.png`) ? yes : no
+    let color2 = fs.existsSync(`../Images/TileSets/Fairline/Units/${unit.name}-2.png`) ? yes : no
     
     if (image == yes) {
         imageCount++
@@ -43,7 +58,7 @@ for (let unit of units) {
     }
 
     
-    output += `| [${unit}](https://civilization.fandom.com/wiki/${unit.replaceAll(' ', '%20')}) | ${image} | ${color1} | ${color2} |\n`
+    output += `| [${unit.name}](https://civilization.fandom.com/wiki/${unit.name.replaceAll(' ', '%20')}) | ${unit.source} | ${image} | ${color1} | ${color2} |\n`
 }
 
 

@@ -18,5 +18,8 @@
   "devDependencies": {
     "jsonc": "^2.0.0",
     "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "sort-array": "^5.0.0"
   }
 }
