@@ -1,6 +1,6 @@
 # Fairline Unitset for Unciv
 
-Unit images for [Unciv](https://github.com/yairm210/Unciv) from the [Civ II Scenario League](https://sleague.civfanatics.com), [Fairline](https://forums.civfanatics.com/members/fairline.14395/), and others. Targets unitsets from Civ IV, V, and Rekmod.
+Unit images for [Unciv](https://github.com/yairm210/Unciv) from the [Civ II Scenario League](https://sleague.civfanatics.com), [Fairline](https://forums.civfanatics.com/members/fairline.14395/), and others. Targets unitsets for Civ IV, V, VI, and Rekmod.
 
 ![Preview Screenshot](preview.png)
 
