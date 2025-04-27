@@ -39,7 +39,7 @@ units = sortArray(units, {
     by: 'name'
 })
 
-let output = "# Units\n\n| Name | Source | Image | Color 1 | Color 2 |\n| :--- | :---: | :---: | :---: | :---: |\n"
+let output = "# Units\n\n| Name | Mod | Image | Color 1 | Color 2 |\n| :--- | :---: | :---: | :---: | :---: |\n"
 
 let imageCount = 0
 let colorCount = 0
