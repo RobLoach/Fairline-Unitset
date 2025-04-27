@@ -58,12 +58,11 @@ for (let unit of units) {
         colorCount++
     }
 
-    let wiki = `[W](https://en.wikipedia.org/wiki/${unit.name.replaceAll(' ', '%20')})`
-    let civ5custom = `[C](https://civilization-v-customisation.fandom.com/wiki/Special:Search?scope=internal&navigationSearch=true&query=${unit.name.replaceAll(' ', '%20')})`
-    
-    output += `| [${unit.name}](https://civilization.fandom.com/wiki/Special:Search?scope=internal&query=${unit.name.replaceAll(' ', '%20')}) ${wiki} ${civ5custom} | ${unit.source} | ${image} | ${color1} | ${color2} |\n`
-}
+    let wiki = `[![Wikipedia](https://www.wikipedia.org/static/favicon/wikipedia.ico)](https://en.wikipedia.org/wiki/${unit.name.replaceAll(' ', '%20')})`
+    let civ5custom = `[![Civ 5 Customization Wiki](https://civilization-v-customisation.fandom.com/skins-ucp/mw143/common/favicon.ico)](https://civilization-v-customisation.fandom.com/wiki/Special:Search?scope=internal&navigationSearch=true&query=${unit.name.replaceAll(' ', '%20')})`
 
+    output += `| [${unit.name}](https://civilization.fandom.com/wiki/Special:Search?scope=internal&query=${unit.name.replaceAll(' ', '%20')}) ${civ5custom} ${wiki} | ${unit.source} | ${image} | ${color1} | ${color2} |\n`
+}
 
 output += `| **Total** | | ${Math.round((imageCount / units.length) * 100)}% | ${Math.round((colorCount / units.length) * 100)}% | ${Math.round((colorCount / units.length) * 100)}% |`
 
