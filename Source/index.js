@@ -3,11 +3,11 @@ const jsonc = require('jsonc');
 const sortArray = require('sort-array');
 
 const files = [
-    'units-civ4.json',
     'units-civ5-vanilla.json',
     'units-civ5-kings.json',
     'units-rekmod.json',
-    'units-civ6.json'
+    'units-civ6.json',
+    'units-civ4.json'
 ]
 
 function checkArrayForObjectWithValue(array, property, value) {
