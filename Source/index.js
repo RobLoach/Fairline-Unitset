@@ -58,8 +58,8 @@ for (let unit of units) {
         colorCount++
     }
 
-    let wiki = `[![Wikipedia](wiki.png)](https://en.wikipedia.org/wiki/${unit.name.replaceAll(' ', '%20')})`
-    let civ5custom = `[![Civ 5 Customization Wiki](fandom.png)](https://civilization-v-customisation.fandom.com/wiki/Special:Search?scope=internal&navigationSearch=true&query=${unit.name.replaceAll(' ', '%20')})`
+    let wiki = `[![Wikipedia](Source/wiki.png)](https://en.wikipedia.org/wiki/${unit.name.replaceAll(' ', '%20')})`
+    let civ5custom = `[![Civ 5 Customization Wiki](Source/fandom.png)](https://civilization-v-customisation.fandom.com/wiki/Special:Search?scope=internal&navigationSearch=true&query=${unit.name.replaceAll(' ', '%20')})`
 
     output += `| [${unit.name}](https://civilization.fandom.com/wiki/Special:Search?scope=internal&query=${unit.name.replaceAll(' ', '%20')}) ${civ5custom} ${wiki} | ${unit.source} | ${image} | ${color1} | ${color2} |\n`
 }
