@@ -2671,86 +2671,107 @@ TileSets/Fairline/Units/Warrior
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Warrior-1
+TileSets/Fairline/Units/Warrior Monk
   rotate: false
   xy: 1876, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Warrior-2
+TileSets/Fairline/Units/Warrior Monk-1
   rotate: false
   xy: 1948, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Work Boats
+TileSets/Fairline/Units/Warrior Monk-2
   rotate: false
   xy: 1372, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Work Boats-1
+TileSets/Fairline/Units/Warrior-1
   rotate: false
   xy: 1444, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Work Boats-2
+TileSets/Fairline/Units/Warrior-2
   rotate: false
   xy: 1516, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker
+TileSets/Fairline/Units/Work Boats
   rotate: false
   xy: 1588, 220
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker-1
+TileSets/Fairline/Units/Work Boats-1
   rotate: false
   xy: 1660, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker-2
+TileSets/Fairline/Units/Work Boats-2
   rotate: false
   xy: 1732, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker-Egypt
+TileSets/Fairline/Units/Worker
   rotate: false
   xy: 1804, 436
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker-Egypt-1
+TileSets/Fairline/Units/Worker-1
   rotate: false
   xy: 1876, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Worker-Egypt-2
+TileSets/Fairline/Units/Worker-2
   rotate: false
   xy: 1948, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Zero
+TileSets/Fairline/Units/Worker-Egypt
   rotate: false
   xy: 1444, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Worker-Egypt-1
+  rotate: false
+  xy: 1516, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Worker-Egypt-2
+  rotate: false
+  xy: 1588, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Zero
+  rotate: false
+  xy: 1660, 220
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
