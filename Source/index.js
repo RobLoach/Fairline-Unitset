@@ -5,9 +5,10 @@ const sortArray = require('sort-array');
 const files = [
     'units-civ5-vanilla.json',
     'units-civ5-kings.json',
-    'units-rekmod.json',
     'units-civ6.json',
-    'units-civ4.json'
+    'units-rekmod.json',
+    'units-civ4.json',
+    'units-civ7.json',
 ]
 
 function checkArrayForObjectWithValue(array, property, value) {
@@ -39,7 +40,7 @@ for (let file of files) {
 }
 
 units = sortArray(units, {
-    by: 'name'
+    by: ['source', 'name']
 })
 
 let output = "# Units\n\n| Name | Mod | Nation | Image | Color 1 | Color 2 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n"
