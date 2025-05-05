@@ -1019,21 +1019,21 @@ TileSets/Fairline/Units/Chu-Ko-Nu
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Comanche Riders
+TileSets/Fairline/Units/Comanche Rider
   rotate: false
   xy: 76, 940
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Comanche Riders-1
+TileSets/Fairline/Units/Comanche Rider-1
   rotate: false
   xy: 148, 1012
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Comanche Riders-2
+TileSets/Fairline/Units/Comanche Rider-2
   rotate: false
   xy: 220, 1084
   size: 64, 64
