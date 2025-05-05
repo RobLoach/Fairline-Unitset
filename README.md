@@ -38,6 +38,7 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from the [Civ II Scen
 4. Create the `Unit-1.png` for the primary colors, and `Unit-2.png` for highlights
     - To shift the colors, use Edit -> Adjustments -> Hue/Saturate
 5. For nation-specific units, use `Unit-Egypt.png`
+6. Discuss [the mod on Discord](https://discord.com/channels/586194543280390151/1305371564044456046)
 
 ## Credits
 
