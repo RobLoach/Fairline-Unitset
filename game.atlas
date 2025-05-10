@@ -3826,9 +3826,30 @@ TileSets/Fairline/Units/Worker-Egypt-2
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Zero
+TileSets/Fairline/Units/Worker-Modern era
   rotate: false
   xy: 868, 580
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Worker-Modern era-1
+  rotate: false
+  xy: 940, 652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Worker-Modern era-2
+  rotate: false
+  xy: 1012, 724
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Fairline/Units/Zero
+  rotate: false
+  xy: 1084, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
