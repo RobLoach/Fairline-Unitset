@@ -16,7 +16,7 @@ Unit images for [Unciv](https://github.com/yairm210/Unciv) from the [Civ II Scen
 
 ## Roadmap
 
-- [x] Add all [missing units](Units.md)
+- [ ] Add all [missing units](Units.md)
 - [ ] Fill in nation colours for [each unit](Units.md)
 - [ ] Ensure all units are in the correct position
 - [ ] Review the units to see if there are better options
