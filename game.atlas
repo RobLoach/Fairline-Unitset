@@ -3455,20 +3455,6 @@ TileSets/Fairline/Units/Musketeer
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Fairline/Units/Musketeer-1
-  rotate: false
-  xy: 1516, 1444
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/Fairline/Units/Musketeer-2
-  rotate: false
-  xy: 1588, 1516
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
 TileSets/Fairline/Units/Musketman
   rotate: false
   xy: 1660, 1588
