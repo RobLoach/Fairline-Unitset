@@ -4192,798 +4192,798 @@ TileSets/Fairline/Units/Saka Horse Archer
   index: -1
 TileSets/Fairline/Units/Saka Horse Archer-1
   rotate: false
-  xy: 724, 364
+  xy: 796, 436
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Samurai
   rotate: false
-  xy: 796, 436
+  xy: 868, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Samurai-1
   rotate: false
-  xy: 868, 508
+  xy: 940, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Scout
   rotate: false
-  xy: 940, 580
+  xy: 1012, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Scout-1
   rotate: false
-  xy: 1012, 652
+  xy: 1084, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Scout-2
   rotate: false
-  xy: 1084, 724
+  xy: 1156, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Sea Dog
   rotate: false
-  xy: 1156, 796
+  xy: 1228, 868
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Seaxman
   rotate: false
-  xy: 1228, 868
+  xy: 1300, 940
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Seaxman-1
   rotate: false
-  xy: 1300, 940
+  xy: 1372, 1012
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Seaxman-2
   rotate: false
-  xy: 1372, 1012
+  xy: 1444, 1084
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Settler
   rotate: false
-  xy: 1444, 1084
+  xy: 1516, 1156
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Settler-1
   rotate: false
-  xy: 1516, 1156
+  xy: 1588, 1228
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Settler-2
   rotate: false
-  xy: 1588, 1228
+  xy: 1660, 1300
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Settler-Modern era
   rotate: false
-  xy: 1660, 1300
+  xy: 1732, 1372
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Settler-Modern era-1
   rotate: false
-  xy: 1732, 1372
+  xy: 1804, 1444
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Settler-Modern era-2
   rotate: false
-  xy: 1804, 1444
+  xy: 1876, 1516
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Ship of the Line
   rotate: false
-  xy: 1876, 1516
+  xy: 1948, 1588
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Ship of the Line-1
   rotate: false
-  xy: 1948, 1588
+  xy: 436, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Ship of the Line-2
   rotate: false
-  xy: 436, 4
+  xy: 508, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Siege Tower
   rotate: false
-  xy: 508, 76
+  xy: 580, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Sipahi
   rotate: false
-  xy: 580, 148
+  xy: 652, 220
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Sissi
   rotate: false
-  xy: 652, 220
+  xy: 724, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Sissi-1
   rotate: false
-  xy: 724, 292
+  xy: 796, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Sissi-2
   rotate: false
-  xy: 796, 364
+  xy: 868, 436
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Skirmisher
   rotate: false
-  xy: 868, 436
+  xy: 940, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Skirmisher-1
   rotate: false
-  xy: 940, 508
+  xy: 1012, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Skirmisher-2
   rotate: false
-  xy: 1012, 580
+  xy: 1084, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Skirmisher-Barbarians
   rotate: false
-  xy: 1084, 652
+  xy: 1156, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Skirmisher-Barbarians-1
   rotate: false
-  xy: 1156, 724
+  xy: 1228, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Skirmisher-Barbarians-2
   rotate: false
-  xy: 1228, 796
+  xy: 1300, 868
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Slinger
   rotate: false
-  xy: 1300, 868
+  xy: 1372, 940
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Slinger-1
   rotate: false
-  xy: 1372, 940
+  xy: 1444, 1012
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Slinger-2
   rotate: false
-  xy: 1444, 1012
+  xy: 1516, 1084
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Spearman
   rotate: false
-  xy: 1516, 1084
+  xy: 1588, 1156
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Spearman-1
   rotate: false
-  xy: 1588, 1156
+  xy: 1660, 1228
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Spearman-2
   rotate: false
-  xy: 1660, 1228
+  xy: 1732, 1300
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Spec Ops
   rotate: false
-  xy: 1732, 1300
+  xy: 1804, 1372
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Spy
   rotate: false
-  xy: 1804, 1372
+  xy: 1876, 1444
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Spy-1
   rotate: false
-  xy: 1876, 1444
+  xy: 1948, 1516
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Spy-2
   rotate: false
-  xy: 1948, 1516
+  xy: 508, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Stealth Bomber
   rotate: false
-  xy: 508, 4
+  xy: 580, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Stealth Destroyer
   rotate: false
-  xy: 580, 76
+  xy: 652, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Stealth Destroyer-1
   rotate: false
-  xy: 652, 148
+  xy: 724, 220
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Stealth Destroyer-2
   rotate: false
-  xy: 724, 220
+  xy: 796, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Submarine
   rotate: false
-  xy: 796, 292
+  xy: 868, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Submarine-1
   rotate: false
-  xy: 868, 364
+  xy: 940, 436
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Submarine-2
   rotate: false
-  xy: 940, 436
+  xy: 1012, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Swiss Guard
   rotate: false
-  xy: 1012, 508
+  xy: 1084, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Swordsman
   rotate: false
-  xy: 1084, 580
+  xy: 1156, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Swordsman-1
   rotate: false
-  xy: 1156, 652
+  xy: 1228, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Swordsman-2
   rotate: false
-  xy: 1228, 724
+  xy: 1300, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Swordsman-Barbarians
   rotate: false
-  xy: 1300, 796
+  xy: 1372, 868
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tachanka
   rotate: false
-  xy: 1372, 868
+  xy: 1444, 940
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tactical Nuke-1
   rotate: false
-  xy: 1444, 940
+  xy: 1516, 1012
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tactical Nuke-2
   rotate: false
-  xy: 1516, 1012
+  xy: 1588, 1084
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tagma
   rotate: false
-  xy: 1588, 1084
+  xy: 1660, 1156
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tank
   rotate: false
-  xy: 1660, 1156
+  xy: 1732, 1228
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tank-1
   rotate: false
-  xy: 1732, 1228
+  xy: 1804, 1300
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tank-2
   rotate: false
-  xy: 1804, 1300
+  xy: 1876, 1372
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tercio
   rotate: false
-  xy: 1876, 1372
+  xy: 1948, 1444
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tercio-1
   rotate: false
-  xy: 1948, 1444
+  xy: 580, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Tercio-2
   rotate: false
-  xy: 580, 4
+  xy: 652, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Timurid Rider
   rotate: false
-  xy: 652, 76
+  xy: 724, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Toa
   rotate: false
-  xy: 724, 148
+  xy: 796, 220
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Transport
   rotate: false
-  xy: 796, 220
+  xy: 868, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Transport-1
   rotate: false
-  xy: 868, 292
+  xy: 940, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Transport-2
   rotate: false
-  xy: 940, 364
+  xy: 1012, 436
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Trebuchet
   rotate: false
-  xy: 1012, 436
+  xy: 1084, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Trebuchet-1
   rotate: false
-  xy: 1084, 508
+  xy: 1156, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Trebuchet-2
   rotate: false
-  xy: 1156, 580
+  xy: 1228, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Triplane
   rotate: false
-  xy: 1228, 652
+  xy: 1300, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Triplane-1
   rotate: false
-  xy: 1300, 724
+  xy: 1372, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Triplane-2
   rotate: false
-  xy: 1372, 796
+  xy: 1444, 868
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Trireme
   rotate: false
-  xy: 1444, 868
+  xy: 1516, 940
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Trireme-1
   rotate: false
-  xy: 1516, 940
+  xy: 1588, 1012
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Trireme-2
   rotate: false
-  xy: 1588, 1012
+  xy: 1660, 1084
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Turtle Ship
   rotate: false
-  xy: 1660, 1084
+  xy: 1732, 1156
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Turtle Ship-1
   rotate: false
-  xy: 1732, 1156
+  xy: 1804, 1228
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Turtle Ship-2
   rotate: false
-  xy: 1804, 1228
+  xy: 1876, 1300
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/U-Boat
   rotate: false
-  xy: 1876, 1300
+  xy: 1948, 1372
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Ulan
   rotate: false
-  xy: 1948, 1372
+  xy: 652, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Vanator
   rotate: false
-  xy: 652, 4
+  xy: 724, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Vanator-1
   rotate: false
-  xy: 724, 76
+  xy: 796, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Viking Longship
   rotate: false
-  xy: 796, 148
+  xy: 868, 220
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/War Chariot
   rotate: false
-  xy: 868, 220
+  xy: 940, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/War Elephant
   rotate: false
-  xy: 940, 292
+  xy: 1012, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/War Elephant-1
   rotate: false
-  xy: 1012, 364
+  xy: 1084, 436
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/War Elephant-2
   rotate: false
-  xy: 1084, 436
+  xy: 1156, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/War-Cart
   rotate: false
-  xy: 1156, 508
+  xy: 1228, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Warrior
   rotate: false
-  xy: 1228, 580
+  xy: 1300, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Warrior Monk
   rotate: false
-  xy: 1300, 652
+  xy: 1372, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Warrior Monk-1
   rotate: false
-  xy: 1372, 724
+  xy: 1444, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Warrior Monk-2
   rotate: false
-  xy: 1444, 796
+  xy: 1516, 868
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Warrior-1
   rotate: false
-  xy: 1516, 868
+  xy: 1588, 940
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Warrior-2
   rotate: false
-  xy: 1588, 940
+  xy: 1660, 1012
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Winged Hussar
   rotate: false
-  xy: 1660, 1012
+  xy: 1732, 1084
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Winged Hussar-1
   rotate: false
-  xy: 1732, 1084
+  xy: 1804, 1156
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Winged Hussar-2
   rotate: false
-  xy: 1804, 1156
+  xy: 1876, 1228
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Work Boats
   rotate: false
-  xy: 1876, 1228
+  xy: 1948, 1300
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Work Boats-1
   rotate: false
-  xy: 1948, 1300
+  xy: 724, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Work Boats-2
   rotate: false
-  xy: 724, 4
+  xy: 796, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Work Boats-Modern era
   rotate: false
-  xy: 796, 76
+  xy: 868, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Work Boats-Modern era-1
   rotate: false
-  xy: 868, 148
+  xy: 940, 220
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Work Boats-Modern era-2
   rotate: false
-  xy: 940, 220
+  xy: 1012, 292
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker
   rotate: false
-  xy: 1012, 292
+  xy: 1084, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker-1
   rotate: false
-  xy: 1084, 364
+  xy: 1156, 436
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker-2
   rotate: false
-  xy: 1156, 436
+  xy: 1228, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker-Egypt
   rotate: false
-  xy: 1228, 508
+  xy: 1300, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker-Egypt-1
   rotate: false
-  xy: 1300, 580
+  xy: 1372, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker-Egypt-2
   rotate: false
-  xy: 1372, 652
+  xy: 1444, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker-Modern era
   rotate: false
-  xy: 1444, 724
+  xy: 1516, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker-Modern era-1
   rotate: false
-  xy: 1516, 796
+  xy: 1588, 868
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Worker-Modern era-2
   rotate: false
-  xy: 1588, 868
+  xy: 1660, 940
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Zero
   rotate: false
-  xy: 1660, 940
+  xy: 1732, 1012
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
