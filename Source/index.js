@@ -72,7 +72,7 @@ for (let unit of units) {
 
     output += `| [${unit.name}](https://civilization.fandom.com/wiki/Special:Search?scope=internal&query=${unit.name.replaceAll(' ', '%20')}) ${civ5custom} ${wiki} | ${unit.source} | ${unit.uniqueTo ?? ''} | ${image} | ${color1} | ${color2} |\n`
 
-    templateunits += `![${unit.name}](Images/${unit.name}.png) `
+    templateunits += `![${unit.name}](Images/TileSets/Fairline/Units/${unit.name.replaceAll(' ', '%20')}.png) `
 }
 template = template.replace('{{units}}', templateunits)
 fs.writeFileSync('../README.md', template, {encoding:'utf8'})
