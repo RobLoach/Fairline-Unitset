@@ -24,6 +24,7 @@ let units = []
 
 for (let file of files) {
     const contents = fs.readFileSync(file, 'utf8')
+    console.log(file)
     let unitcontents = jsonc.parse(contents)
 
     for (let unit of unitcontents) {
